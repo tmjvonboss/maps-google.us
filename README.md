@@ -6,7 +6,7 @@ this is the analysis of the website http://maps-google.us and contains steps as 
 
 i was **bored!** additional to that, this site is a scam site which means it's illegal
 
-[logo]: https://github.com/tmjvonboss/maps-google.us/blob/master/images/MainPage.png?raw=true "MainPage.png"
+![ScreenShot](images/MainPage.png)
 
 ## Step 1 - cURL the website down
 
