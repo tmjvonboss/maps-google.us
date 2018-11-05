@@ -6,7 +6,7 @@ this is the analysis of the website http://maps-google.us and contains steps as 
 
 i was **bored!** additional to that, this site is a scam site which means it's illegal
 
-[logo]: https://github.com/tmjvonboss/maps-google.us/blob/master/images/MainPage.png.png "MainPage.png"
+[logo]: https://github.com/tmjvonboss/maps-google.us/blob/master/images/MainPage.png?raw=true "MainPage.png"
 
 ## Step 1 - cURL the website down
 
@@ -131,7 +131,7 @@ GG godaddy, enjoying that malware spreading aid...
 email address `76JGYHJMGH@QQ.COM`
 look closely, **qq.com**, at first i thought it was fake...
 https://en.mail.qq.com/cgi-bin/loginpage
-might make an aaccount see what happens...
+might make an account see what happens...
 
 # Summary
 try better to hide client side JS code BOI, or just dont do this shit...
