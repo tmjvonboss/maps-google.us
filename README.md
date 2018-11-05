@@ -5,6 +5,7 @@ this is the analysis of the website http://maps-google.us and contains steps as 
 # Why
 
 i was **bored!** additional to that, this site is a scam site which means it's illegal
+
 [logo]: https://github.com/tmjvonboss/maps-google.us/blob/master/images/MainPage.png.png "MainPage.png"
 
 ## Step 1 - cURL the website down
@@ -41,7 +42,7 @@ as seen above this is base64, OMG lets decode this
 
 ## Step 4 - Decode the BASE64 string
 
-you can decode this online, just copy paaste it into https://www.base64decode.org/
+you can decode this online, just copy paste it into https://www.base64decode.org/
 result here:
 https://github.com/tmjvonboss/maps-google.us/blob/master/results/source.php_decoded.html
 
@@ -75,7 +76,9 @@ for (var i = 0; i < smat.length; i += 10) {
 }
 console.log(unescape(t));
 ~~~
+
 interesting part: `var f = ["onmouseout", "body", "addEventListener", "mouseout", "*************************************************\nRDN/YahLover.worm!055BCCAC9FEC Infection\n*************************************************\n\n", "attachEvent"];`
+
 FOUND YA BOI
 
 full result:
