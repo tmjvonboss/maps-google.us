@@ -133,5 +133,37 @@ look closely, **qq.com**, at first i thought it was fake...
 https://en.mail.qq.com/cgi-bin/loginpage
 might make an account see what happens...
 
+## But who hosts this?
+aaaand the winner is AWS!!!!
+GG Amazon for actually hosting this crap on your servers
+go to https://whatismyipaddress.com/hostname-ip
+fill in www.maps-google.us
+the ip found: 35.153.114.248
+So on the site click on the ip, link it leads to: https://whatismyipaddress.com/ip/35.153.114.248
+~~~
+IP Details for 35.153.114.248
+
+Details for 35.153.114.248
+
+IP:	35.153.114.248
+Decimal:	597259000
+Hostname:	ec2-35-153-114-248.compute-1.amazonaws.com
+ASN:	14618
+ISP:	Amazon.com
+Organization:	Amazon.com
+Services:	None detected
+Type:	Corporate
+Assignment:	Static IP
+Continent:	North America
+Country:	United States
+State/Region:	Virginia
+City:	Ashburn
+Latitude:	39.0481  (39° 2′ 53.16″ N)
+Longitude:	-77.4728  (77° 28′ 22.08″ W)
+Postal Code:	20149
+~~~
+screenshot:
+![ScreenShot](images/IpLookUp.png)
+
 # Summary
 try better to hide client side JS code BOI, or just dont do this shit...
